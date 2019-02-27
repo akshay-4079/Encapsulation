@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationEasy", "EncapsulationEasy\EncapsulationEasy.csproj", "{30729FBA-6A1A-464B-A513-D0D09459F240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationMedium", "EncapsulationMedium\EncapsulationMedium.csproj", "{75B15D13-07DC-4B6B-AA70-7EE11EFD1295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsHard", "EncapsHard\EncapsHard.csproj", "{623BCC1C-433B-4887-9106-0C453CBA0C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30729FBA-6A1A-464B-A513-D0D09459F240}.Debug|x86.ActiveCfg = Debug|x86
+		{30729FBA-6A1A-464B-A513-D0D09459F240}.Debug|x86.Build.0 = Debug|x86
+		{30729FBA-6A1A-464B-A513-D0D09459F240}.Release|x86.ActiveCfg = Release|x86
+		{30729FBA-6A1A-464B-A513-D0D09459F240}.Release|x86.Build.0 = Release|x86
+		{75B15D13-07DC-4B6B-AA70-7EE11EFD1295}.Debug|x86.ActiveCfg = Debug|x86
+		{75B15D13-07DC-4B6B-AA70-7EE11EFD1295}.Debug|x86.Build.0 = Debug|x86
+		{75B15D13-07DC-4B6B-AA70-7EE11EFD1295}.Release|x86.ActiveCfg = Release|x86
+		{75B15D13-07DC-4B6B-AA70-7EE11EFD1295}.Release|x86.Build.0 = Release|x86
+		{623BCC1C-433B-4887-9106-0C453CBA0C2A}.Debug|x86.ActiveCfg = Debug|x86
+		{623BCC1C-433B-4887-9106-0C453CBA0C2A}.Debug|x86.Build.0 = Debug|x86
+		{623BCC1C-433B-4887-9106-0C453CBA0C2A}.Release|x86.ActiveCfg = Release|x86
+		{623BCC1C-433B-4887-9106-0C453CBA0C2A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
